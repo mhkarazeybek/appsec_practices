@@ -1,4 +1,4 @@
-# AppSec Labs - Vulnerable Application Security Training Platform
+# AppSec Practices - Vulnerable Application Security Training Platform
 
 A Docker-based security training platform that grows with community contributions.
 
@@ -40,8 +40,8 @@ A Docker-based security training platform that grows with community contribution
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/appsec_labs.git
-cd appsec_labs
+git clone https://github.com/mhkarazeybek/appsec_practices.git
+cd appsec_practices
 ```
 
 2. Run any lab:
